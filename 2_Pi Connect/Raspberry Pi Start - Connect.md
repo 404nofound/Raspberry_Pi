@@ -46,3 +46,9 @@
 **Please update operating system after connected**
 
 Using `sudo apt-get update` and `sudo apt-get upgrade`
+
+### Remote Desktop
+
+Enable SSH firstly, then `sudo apt-get install xrdp`
+
+Finally, you can use tools like Microsoft Remote Desktop to connect Pi.
